@@ -3,8 +3,8 @@ title: Henry Blog
 SEOTitle: 何力的博客 | Henry Blog
 header-img: img/home-bg.jpg
 email: 1421497853@gmail.com
-description: "这里是 @何力 的个人博客，记录人生的蜕变， 留下存在的痕迹"
-keyword: "：）"
+description: "这里是 @何力 的个人博客，记录人生的蜕变，留下存在的痕迹"
+keyword: "好奇心、越野摩托车、Arduino、车库文化、美式文化、动手党"
 url: "https://google.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+#weibo_username: huxpro
+#zhihu_username: huxpro
+#github_username: huxpro
+#twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+
   ]
