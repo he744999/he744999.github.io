@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2024-05-18 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -10,18 +10,12 @@ tags:
     - Meta
 ---
 
-> “Now or Never”
 
 
 很喜欢看美剧老友记
-主角经常在楼下一家叫 central perk 的咖啡馆聚会
-所以我决定这个计划就叫  central park
-
-I'll be here for you
-
-
-
-<p id = "build"></p>
+主角经常在楼下一家叫 Central Perk 的咖啡馆聚会
+所以我决定这个计划就叫  Central Park
+> “I'll be here for you”
 
 
 # 安全
@@ -69,12 +63,21 @@ todo
 小轿车、自行车、皮卡车
 
 
-# 休闲生活
+
+
+# 进阶
 
 ## 书房
 
 todo
 
-## 机房
+## 物联网
+
+随身wifi为基石， HomeAssistant为工具搭建
+视频监控
+安全报警
+
+## 花园
 
 todo
+
