@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Hello 2015"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-05-18 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Meta
+---
+
+
+对有限资源获取时所总结的
+
+
+使用 Resource 没有query， 会一直查询, 有就给
+例子 pic
+![flexsim](./img/in-post/post-flexsim/flexsim1.png "可选标题")
+
+没有query， 在资源后申请一个给一个
+
+例子 pic
+有query， 在条件满足且有资源后瞬间没有给，  等待了一段时间（下一个申请的token到达activety），才给上一个申请的
+
+
+
+使用query时， resource内部处理成List， 只会在事件（进入、离开、定时）下查询一次， 
+
+例子 pic
+有query， 打开Entries， 目视条件已经满足， 但还是没有申请到
+
+pic
+在下一个 token 进入申请时 activeties 上一个token才申请到
+
+pic
+对于图3时的情况， 在 Resource中设置个定时更新时间， 后 不用下一个到达就可以申请到
+
+如何实现带query的一直查询
+1 
+
+
+
+
